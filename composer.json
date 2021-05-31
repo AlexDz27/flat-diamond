@@ -1,0 +1,15 @@
+{
+  "name": "aliaksei/flat-diamond",
+  "description": "An app that helps to find a flat or room for rent.",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Alex Dzyuba",
+      "email": "alexeydzyuba27@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.0",
+    "spekulatius/phpscraper": "^0.5.0"
+  }
+}
